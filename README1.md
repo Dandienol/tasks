@@ -1,12 +1,6 @@
-# tasks
-Task 0
+# task 1
 <br>
-Копіюємо файли з репозиторію
+Результат винонання роботи
 <br>
-![image](https://user-images.githubusercontent.com/85607923/122563383-d126b980-d04c-11eb-95c6-103f80f16ef2.png)
+![image](https://user-images.githubusercontent.com/85607923/122798757-9da49300-d2c9-11eb-8a55-95b80637874d.png)
 <br>
-Завантаував файл я вручну , без Git
-<br>
-Також створив SSH-ключ 
-<br>
-![image](https://user-images.githubusercontent.com/85607923/122565210-e1d82f00-d04e-11eb-88b6-1cc64c266d04.png)
